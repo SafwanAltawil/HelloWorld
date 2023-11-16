@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T20:21:38.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_S_hhe8KxNXwq2zk6KEQ" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T20:42:31.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="IS_-P0imPYfJSaBRROyh" version="22.1.2" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="5723" dy="2285.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="7161" dy="3283.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -232,8 +232,8 @@
         <mxCell id="tqci_XFTFIyqBPPbkYb6-179" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ffffff;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" parent="tqci_XFTFIyqBPPbkYb6-172" vertex="1">
           <mxGeometry x="220" y="910" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tqci_XFTFIyqBPPbkYb6-180" value="&lt;h4 style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font color=&quot;#777777&quot; style=&quot;font-size: 40px;&quot;&gt;Five benefits of recycling&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;direction=south;" parent="tqci_XFTFIyqBPPbkYb6-172" vertex="1">
-          <mxGeometry x="399" y="1486.5" width="490" height="70" as="geometry" />
+        <mxCell id="tqci_XFTFIyqBPPbkYb6-180" value="&lt;h4 style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;&lt;/h4&gt;&lt;h3&gt;&lt;font color=&quot;#777777&quot; style=&quot;font-size: 40px;&quot;&gt;Projects undertaken&amp;nbsp;&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;direction=south;" parent="tqci_XFTFIyqBPPbkYb6-172" vertex="1">
+          <mxGeometry x="386.5" y="807" width="490" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tqci_XFTFIyqBPPbkYb6-181" value="&lt;h4 style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font color=&quot;#777777&quot; style=&quot;font-size: 40px;&quot;&gt;About Us&lt;/font&gt;&lt;br&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=none;direction=south;" parent="tqci_XFTFIyqBPPbkYb6-172" vertex="1">
           <mxGeometry x="405" y="610" width="440" height="70" as="geometry" />
@@ -278,19 +278,37 @@
           <mxGeometry x="963.0009090909091" y="1210.0020281124498" width="181.81818181818184" height="64.7" as="geometry" />
         </mxCell>
         <mxCell id="tqci_XFTFIyqBPPbkYb6-196" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;rounded=0;fontSize=12;align=center;" parent="tqci_XFTFIyqBPPbkYb6-172" vertex="1">
-          <mxGeometry x="471.5" y="886.5" width="320" height="323.5" as="geometry" />
+          <mxGeometry x="471.5" y="956.5" width="320" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="tqci_XFTFIyqBPPbkYb6-198" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;strokeColor=#666666;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=14;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;" parent="tqci_XFTFIyqBPPbkYb6-172" vertex="1">
-          <mxGeometry x="472.5" y="1086.5" width="307.5" height="140" as="geometry" />
+        <mxCell id="tqci_XFTFIyqBPPbkYb6-182" value="Collaborated with an organization Ecogenie" style="shape=rect;fontSize=24;fillColor=#f0f0f0;strokeColor=none;fontColor=#999999;whiteSpace=wrap;" parent="tqci_XFTFIyqBPPbkYb6-172" vertex="1">
+          <mxGeometry x="880" y="956.5" width="320" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Z3a2huhqEQUK8cou7ba3-38" value="320x200" style="shape=rect;fontSize=24;fillColor=#f0f0f0;strokeColor=none;fontColor=#999999;whiteSpace=wrap;" vertex="1" parent="tqci_XFTFIyqBPPbkYb6-172">
-          <mxGeometry x="24" y="596.5" width="320" height="200" as="geometry" />
+        <mxCell id="Z3a2huhqEQUK8cou7ba3-40" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;rounded=0;fontSize=12;align=center;" vertex="1" parent="tqci_XFTFIyqBPPbkYb6-172">
+          <mxGeometry x="74" y="956.5" width="320" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="Z3a2huhqEQUK8cou7ba3-37" value="320x200" style="shape=rect;fontSize=24;fillColor=#f0f0f0;strokeColor=none;fontColor=#999999;whiteSpace=wrap;" vertex="1" parent="tqci_XFTFIyqBPPbkYb6-172">
-          <mxGeometry x="914" y="596.5" width="320" height="200" as="geometry" />
+        <mxCell id="Z3a2huhqEQUK8cou7ba3-39" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;rounded=0;fontSize=12;align=center;" vertex="1" parent="tqci_XFTFIyqBPPbkYb6-172">
+          <mxGeometry x="876.5" y="956.5" width="320" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="tqci_XFTFIyqBPPbkYb6-182" value="320x200" style="shape=rect;fontSize=24;fillColor=#f0f0f0;strokeColor=none;fontColor=#999999;whiteSpace=wrap;" parent="tqci_XFTFIyqBPPbkYb6-172" vertex="1">
-          <mxGeometry x="472.5" y="886.5" width="320" height="200" as="geometry" />
+        <mxCell id="Z3a2huhqEQUK8cou7ba3-42" value="Collaborated with an organization Ecogenie" style="shape=rect;fontSize=24;fillColor=#f0f0f0;strokeColor=none;fontColor=#999999;whiteSpace=wrap;" vertex="1" parent="tqci_XFTFIyqBPPbkYb6-172">
+          <mxGeometry x="74" y="956.5" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3a2huhqEQUK8cou7ba3-41" value="Collaborated with an organization Ecogenie" style="shape=rect;fontSize=24;fillColor=#f0f0f0;strokeColor=none;fontColor=#999999;whiteSpace=wrap;" vertex="1" parent="tqci_XFTFIyqBPPbkYb6-172">
+          <mxGeometry x="471.5" y="956.5" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3a2huhqEQUK8cou7ba3-44" value="&lt;p style=&quot;font-size: 16px;&quot; class=&quot;MsoListBullet&quot;&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;This one is a&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Producers Responsibility Organisation that helps you yield maximum benefits&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;from your trash, and specialises in recycling all kinds of packaging waste. The&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;pan-India service also makes recycled apparel, blankets and toys, majorly&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;produced from their sustainably recycled PET bottles.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;strokeColor=#666666;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=14;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="tqci_XFTFIyqBPPbkYb6-172">
+          <mxGeometry x="79" y="1156.5" width="310" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3a2huhqEQUK8cou7ba3-43" value="&lt;p style=&quot;font-size: 16px;&quot; class=&quot;MsoListBullet&quot;&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;This one is a&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Producers Responsibility Organisation that helps you yield maximum benefits&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;from your trash, and specialises in recycling all kinds of packaging waste. The&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;pan-India service also makes recycled apparel, blankets and toys, majorly&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;produced from their sustainably recycled PET bottles.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;strokeColor=#666666;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=14;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="tqci_XFTFIyqBPPbkYb6-172">
+          <mxGeometry x="476.5" y="1156.5" width="310" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tqci_XFTFIyqBPPbkYb6-198" value="&lt;p style=&quot;font-size: 16px;&quot; class=&quot;MsoListBullet&quot;&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;This one is a&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Producers Responsibility Organisation that helps you yield maximum benefits&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;from your trash, and specialises in recycling all kinds of packaging waste. The&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;pan-India service also makes recycled apparel, blankets and toys, majorly&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;produced from their sustainably recycled PET bottles.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;strokeColor=#666666;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=14;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;" parent="tqci_XFTFIyqBPPbkYb6-172" vertex="1">
+          <mxGeometry x="885" y="1156.5" width="310" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3a2huhqEQUK8cou7ba3-45" value="Collaborated with an organization Ecogenie" style="shape=rect;fontSize=24;fillColor=#f0f0f0;strokeColor=none;fontColor=#999999;whiteSpace=wrap;" vertex="1" parent="tqci_XFTFIyqBPPbkYb6-172">
+          <mxGeometry x="880" y="956.5" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3a2huhqEQUK8cou7ba3-46" value="" style="shape=line;strokeColor=#ababab;strokeWidth=2;html=1;resizeWidth=1;" vertex="1" parent="tqci_XFTFIyqBPPbkYb6-172">
+          <mxGeometry x="35" y="786.5" width="1180" height="10" as="geometry" />
         </mxCell>
         <mxCell id="tqci_XFTFIyqBPPbkYb6-211" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" parent="1" vertex="1">
           <mxGeometry x="-2490" y="1750.5" width="1263" height="1760" as="geometry" />
@@ -350,10 +368,10 @@
           <mxGeometry x="271.5" y="706.5" width="691.5" height="303.5" as="geometry" />
         </mxCell>
         <mxCell id="tqci_XFTFIyqBPPbkYb6-221" value="320x200" style="shape=rect;fontSize=24;fillColor=#ababab;strokeColor=none;fontColor=#999999;whiteSpace=wrap;" parent="tqci_XFTFIyqBPPbkYb6-211" vertex="1">
-          <mxGeometry y="1256.5" width="1260" height="453.5" as="geometry" />
+          <mxGeometry y="1256.5" width="1260" height="413.5" as="geometry" />
         </mxCell>
         <mxCell id="tqci_XFTFIyqBPPbkYb6-235" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;rounded=0;fontSize=12;align=center;" parent="tqci_XFTFIyqBPPbkYb6-211" vertex="1">
-          <mxGeometry x="200" y="1283.25" width="220" height="400" as="geometry" />
+          <mxGeometry x="200" y="1283.25" width="220" height="356.75" as="geometry" />
         </mxCell>
         <mxCell id="tqci_XFTFIyqBPPbkYb6-237" value="&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;strokeColor=#666666;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=14;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;" parent="tqci_XFTFIyqBPPbkYb6-211" vertex="1">
           <mxGeometry x="210" y="1510" width="202" height="200" as="geometry" />
@@ -362,10 +380,10 @@
           <mxGeometry x="210" y="1289.5" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Z3a2huhqEQUK8cou7ba3-32" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;rounded=0;fontSize=12;align=center;" vertex="1" parent="tqci_XFTFIyqBPPbkYb6-211">
-          <mxGeometry x="518" y="1283.25" width="220" height="400" as="geometry" />
+          <mxGeometry x="518" y="1283.25" width="220" height="356.75" as="geometry" />
         </mxCell>
         <mxCell id="Z3a2huhqEQUK8cou7ba3-31" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;rounded=0;fontSize=12;align=center;" vertex="1" parent="tqci_XFTFIyqBPPbkYb6-211">
-          <mxGeometry x="810" y="1283.25" width="220" height="400" as="geometry" />
+          <mxGeometry x="810" y="1283.25" width="220" height="356.75" as="geometry" />
         </mxCell>
         <mxCell id="Z3a2huhqEQUK8cou7ba3-34" value="Mission Statement" style="shape=rect;fontSize=24;fillColor=#f0f0f0;strokeColor=none;fontColor=#999999;whiteSpace=wrap;" vertex="1" parent="tqci_XFTFIyqBPPbkYb6-211">
           <mxGeometry x="820" y="1289.5" width="200" height="200" as="geometry" />
